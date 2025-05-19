@@ -1,0 +1,11 @@
+# Data files
+data/
+*.csv
+*.ipynb_checkpoints/
+# Virtual environment
+venv/
+.env/
+# Conda environment
+env/
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
