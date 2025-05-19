@@ -14,9 +14,7 @@ solar-challenge-week1/
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
 
-markdown
-Copy
-Edit
+
 
 ## 🚀 Objectives
 
